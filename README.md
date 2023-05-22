@@ -1,6 +1,6 @@
 # MapleWebPak
 ## License
-Coming soon.
+This project is under the MIT license. For more information please read the LICENSE file.   
 ## Purpose
 The purpose of this project is to have a one stop shop for boiler plate for html, css and js.  
 
